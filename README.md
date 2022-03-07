@@ -3,8 +3,7 @@
 Wrapper for ```ffmpeg``` to automatically deep fry videos and its related audio.
 
 # usage
-```bash
- python fry.py -iv sample.mp4 -o output.mp4 -nv 10 -na 5 -ne 20 ```
+```python fry.py -iv sample.mp4 -o output.mp4 -nv 10 -na 5 -ne 20 ```
 
 # Arguments 
 
